@@ -1,0 +1,23 @@
+node_modules
+miniprogram/miniprogram_npm
+
+
+# production
+/build  
+git 
+# misc
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+
+package-lock.json
+yarn.lock
+project.config.json
+.DS_Store
+.cache
+translate.xlsx
+scripts/libs
